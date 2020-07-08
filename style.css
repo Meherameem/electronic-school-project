@@ -1,0 +1,179 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.logo-resizing{
+    margin-top: 5px;
+    width: 198.07px;
+    height: 59px;
+}
+.signin-btn{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    padding: 12px 28px;
+}
+.first-section-background{
+    width: 100%;
+    height: 100%;
+    background: #F0FFF0;
+}
+.nav-color{
+    background-color: #F0FFF0 !important;
+}
+.navbar-customizing{
+    color: black !important;
+    font-weight: 800 !important;
+    margin-right: 30px;
+    text-align: center;
+}
+.illustration-resize{
+    width: 554px;
+    height: 346px;
+}
+.get-started-btn{
+    width: 150px;
+    height: 50px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none; 
+}
+.first-section{
+    padding: 50px 30px;
+}
+.h1-style{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 70px;
+}
+.card-img-top-second-section{
+    width: 66px;
+    height: 85px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.white-bg-center{
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-second-section{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    border: none;
+    width: 270px;
+    height: 270px;
+    margin-top: 20px;
+}
+.card-body-second-section{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+
+}
+.card-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+.card-text-second-section{
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #585859;
+    text-align: center !important;
+}
+.card:hover div.hover{
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 10px 10px 20px lightgrey;
+}
+.online-class-style{
+    text-align: center;
+    color: #413960;
+    margin-top: 60px;
+}
+.tesimonial-style{
+    text-align: center;
+    margin-top: 60px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.card-decoration-third-section{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    margin-top: 20px;
+}
+.img-third-sec{
+    width: 90%;
+    height: 50%;
+    margin: 17px;
+}
+.man-img-style{
+    width: 120px;
+    height: 120px;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+.testimonial-para-style{
+    margin-top: 85px;
+    margin-left: 150px; 
+    margin-right: 50px; 
+}
+.icon-img-style{
+    width: 24px;
+    height: 24px;
+}
+.footer-margin{
+    margin-bottom: 5px;
+}
+.last-sec-bg{
+    background-color: #282531;
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+}
+.end-footer-style{
+    
+    text-align: center;
+    color: #CDCDCD;
+    margin-right: 120px;
+    font-size: 12px;
+    line-height: 30px;
+    margin-top: 80px;
+}
+.last-sec-para{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 70px;
+    margin-right: 70px;
+}
+a.nav-link.navbar-customizing:hover {
+    background-color:#21B573;
+    border-radius: 15px;
+    color: white !important;
+}
+.additional-contact{
+    width: 50%;
+    height: 50%;
+    background: #F0FFF0;
+    border-radius: 10px;
+}
